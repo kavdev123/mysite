@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Food</title>
+<link rel="icon" type="image/x-icon" href="favicon.ico">
+<style>
+.button{color:#223344;background-color:#40e0d0;border:0;cursor:pointer;font-size:26px;font-family:fantasy;border-radius:50px;height:50px;width:150px;text-align:center}
+img{border-radius:20px}
+</style>
+</head>
+<body bgcolor=223344><Font face="Arial Black" size=10 color=ff5757><h1 align=center>
+Famous Foods</h1></font></body></html>
